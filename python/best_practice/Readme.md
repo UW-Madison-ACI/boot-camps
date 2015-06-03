@@ -195,8 +195,7 @@ Add these lines above the others in your script:
 ```python
 import sys
 filelist = sys.argv[1:]
-column_labels = ("ID","Reported","Age","Gender",
-                "State of residence","Income","Education","Hours per week")
+column_labels = ("ID","Reported","Age","Gender","State of residence","Income","Education","Hours per week")
 all_data = []
 ```
 
