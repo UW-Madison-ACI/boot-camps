@@ -158,3 +158,12 @@ camp.)
   press enter to prepend Anaconda to
   your `PATH` (this makes the Anaconda
   distribution the default Python).
+
+## Check Setup
+
+Open a terminal window and type these commands, pressing enter after each one:
+- `git --help`
+- `python --help`
+- `python --help`
+
+If your setup is correct, you will see a help screens for the programs `git`, `python`, and `ipython`.  
