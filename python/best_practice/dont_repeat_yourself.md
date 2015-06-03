@@ -225,7 +225,7 @@ from `extractData()` we'll:
 * if we find one, convert it to a float
 
 ```python
-    numeric_columns = ("CI type","Volume","Range","Discrimination")
+    numeric_columns = ("Age","Income","Education","Hours per week")
     if key in numeric_columns and value != "" :
         value = float(value)
 ```
