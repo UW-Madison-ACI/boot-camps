@@ -162,8 +162,8 @@ camp.)
 ## Check Setup
 
 Open a terminal window and type these commands, pressing enter after each one:
-- `git --help`
-- `python --help`
-- `python --help`
+- `git --version`
+- `python --version`
+- `ipython --version`
 
-If your setup is correct, you will see a help screens for the programs `git`, `python`, and `ipython`.  
+If your setup is correct, the `git`, `python`, and `ipython` version identifiers will be shown on your screen.  
