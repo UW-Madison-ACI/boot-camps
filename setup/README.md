@@ -158,3 +158,14 @@ camp.)
   press enter to prepend Anaconda to
   your `PATH` (this makes the Anaconda
   distribution the default Python).
+
+## Check Setup
+
+Open a terminal window and type these commands, pressing enter after each one:
+- `git --version`
+- `python --version`
+- `ipython --version`
+- `python -c "import nose"`
+
+If your setup is correct, the `git`, `python`, and `ipython` version identifiers will be shown on your screen;
+the last command will not produce any output.
